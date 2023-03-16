@@ -8,7 +8,7 @@ img{
 }
 
 body{
-    background: url("img/fundo-portifolio.jpg");
+    background: url("../img/fundo-portifolio.jpg");
     background-attachment: fixed;
     background-size: cover;
     display: grid;
