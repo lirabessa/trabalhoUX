@@ -13,3 +13,6 @@ def projetos():
 @app.route('/contato')
 def contato():
     return render_template("contato.html")
+
+if __name__ == "__main__":
+    app.run (debug = True, port=5000)
